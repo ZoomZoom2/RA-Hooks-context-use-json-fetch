@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Hooks-context-use-json-fetch/static/css/main.bbfe8788.css",
+    "main.js": "/RA-Hooks-context-use-json-fetch/static/js/main.fb65cc39.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Hooks-context-use-json-fetch/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Hooks-context-use-json-fetch/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Hooks-context-use-json-fetch/index.html",
+    "main.bbfe8788.css.map": "/RA-Hooks-context-use-json-fetch/static/css/main.bbfe8788.css.map",
+    "main.fb65cc39.js.map": "/RA-Hooks-context-use-json-fetch/static/js/main.fb65cc39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbfe8788.css",
+    "static/js/main.fb65cc39.js"
+  ]
+}
